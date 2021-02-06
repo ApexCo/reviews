@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "faker": "^5.3.1",
+    "fs": "^0.0.1-security"
+  }
+}

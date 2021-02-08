@@ -20,6 +20,13 @@ lib-cov
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+# database .csv seeding files
+*.csv
+# /Users/jaydkumar/HackReactor/SDC/reviews/jays-backend/data/homes.csv
+# /Users/jaydkumar/HackReactor/SDC/reviews/jays-backend/data/ownerResponse.csv
+# /Users/jaydkumar/HackReactor/SDC/reviews/jays-backend/data/reviews.csv
+# /Users/jaydkumar/HackReactor/SDC/reviews/jays-backend/data/users.csv
+
 # Compiled Dirs (http://nodejs.org/api/addons.html)
 build/
 dist/

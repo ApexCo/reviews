@@ -8,7 +8,9 @@
     "circle": "node server/server.js",
     "docker": "node seeder.js & webpack & node server/server.js",
     "seed": "node seeder.js",
+    "seed2": "node database2/seed.js",
     "start": "nodemon server/server.js",
+    "start2": "nodemon server2/server.js",
     "test": "jest",
     "watch": "webpack --watch"
   },

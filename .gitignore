@@ -22,10 +22,6 @@ lib-cov
 
 # database .csv seeding files
 *.csv
-# /Users/jaydkumar/HackReactor/SDC/reviews/jays-backend/data/homes.csv
-# /Users/jaydkumar/HackReactor/SDC/reviews/jays-backend/data/ownerResponse.csv
-# /Users/jaydkumar/HackReactor/SDC/reviews/jays-backend/data/reviews.csv
-# /Users/jaydkumar/HackReactor/SDC/reviews/jays-backend/data/users.csv
 
 # Compiled Dirs (http://nodejs.org/api/addons.html)
 build/

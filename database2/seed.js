@@ -212,6 +212,6 @@ const generateOwnerResponseData = function() {
 // Run all data generation functions
 //
 generateUserData();
-// generateHomeData();
-// generateReviewData();
-// generateOwnerResponseData();
+generateHomeData();
+generateReviewData();
+generateOwnerResponseData();
